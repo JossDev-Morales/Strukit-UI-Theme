@@ -1,14 +1,46 @@
-# Astro Starter Kit: Minimal
+# Strukit UI Theme
 
-```sh
-npm create astro@latest -- --template minimal
-```
+**Smart. Fast. Yours.**
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/minimal)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/minimal)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/minimal/devcontainer.json)
+Strukit is a flexible, performance-focused UI theme architecture for building beautiful, customizable websites using Astro and Tailwind. Designed for developers and freelancers who want to build faster, smarter, and with less friction.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## 🚀 Features
+
+- ⚡ **Performance First** – Uses Astro islands and lightweight components.
+- 🎨 **Fully Customizable** – Switch fonts, palettes, spacing, and themes easily.
+- 🧱 **Composable Components** – Atomic structure with provider-based UI wrappers.
+- 🌐 **SEO-Ready** – Accessible, clean markup with full meta support.
+- 📦 **Framework-Agnostic Wrappers** – Use Material, Flowbite or your own.
+- 📁 **Scalable Architecture** – Structured for growth and future SaaS integration.
+
+## 🧩 Components
+
+Strukit is built with flexibility in mind. You can use:
+- Native Astro + Tailwind components
+- Lightweight Alpine.js islands
+- React-based components where interactivity is needed
+
+## 🔮 Project Vision
+
+> In the future, Strukit will power a low-code platform that helps local businesses and startups launch fast, well-designed websites.  
+> For now, it’s a dev-first theme to build from confidently and efficiently.
+
+## 📌 Roadmap
+
+- [ ] Base component system with theme switcher
+- [ ] Custom Tailwind tokens and theme config
+- [ ] Wrappers for multiple UI libraries (Material, Flowbite, etc.)
+- [ ] Interactive components via islands
+- [ ] Layout templates (landing, ecommerce, portfolio...)
+- [ ] CLI or config loader (Strukit config)
+- [ ] Starter templates for rapid bootstrapping
+
+## 🛠 Local Setup
+
+```bash
+pnpm install
+pnpm dev
+
 
 ## 🚀 Project Structure
 
